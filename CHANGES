@@ -1,0 +1,22 @@
+1.0.0 -> 1.0.1
+==================
+UPDATED THE DATABASE TO THE APPLICATION SETTING PAGE WILL WORK ON INSTALL.
+IT WAS SET INACTIVE DUE TO THE ONLINE DEMO.
+
+1.0.1 -> 1.0.2
+==================
+Removed "Manage" from all of the Administration Menu Items.
+Removed "Menu" From the Administration Menu, its is now just Administration.
+Added manage_ethnicites, to add and manage ethnicities.
+Updated "Delete" process on Manage_Work_Types, it was asking the user if they would like to delete the custom detail not work type.
+Updated mods/menu/menu.php, fixed sub menu items to sort by the mod_weight in the database.
+Updated index.php to not display mod unless the users acl control is the same as the page acl control.
+Added Permissions to the Administration Menu so admins can set global permissions based on the users Access Level.
+Added reports menu item and "Hours by Volunteer" report.
+
+
+
+
+
+
+
